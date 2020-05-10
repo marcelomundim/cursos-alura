@@ -1,2 +1,2 @@
 # cursos-alura
-Cursos que estou realizado da Alura
+Códigos dos cursos de html e css que estou realizado da Alura
